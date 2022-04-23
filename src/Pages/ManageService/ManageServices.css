@@ -1,0 +1,10 @@
+.table-style {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+.table-style th td {
+  border: 5px solid #000000;
+  text-align: left;
+  padding: 8px;
+}
